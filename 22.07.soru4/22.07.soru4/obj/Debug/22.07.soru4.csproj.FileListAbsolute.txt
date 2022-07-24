@@ -1,0 +1,13 @@
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\22.07.soru4.exe.config
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\22.07.soru4.exe
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\22.07.soru4.pdb
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\EntityFramework.dll
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\EntityFramework.xml
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\obj\Debug\22.07.soru4.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\obj\Debug\22.07.soru4.csproj.SuggestedBindingRedirects.cache
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\obj\Debug\22.07.soru4.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\obj\Debug\22.07.soru4.csproj.CopyComplete
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\obj\Debug\22.07.soru4.exe
+C:\Users\90534\source\repos\22.07.soru4\22.07.soru4\obj\Debug\22.07.soru4.pdb
